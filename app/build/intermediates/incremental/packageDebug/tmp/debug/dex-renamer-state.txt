@@ -1,0 +1,7 @@
+#Fri May 29 01:41:01 YEKT 2026
+base.0=C\:\\Users\\gulsl\\Documents\\Codex\\2026-05-29\\new-chat\\MuslimCompanion\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\gulsl\\Documents\\Codex\\2026-05-29\\new-chat\\MuslimCompanion\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+path.0=0/classes.dex
+path.1=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

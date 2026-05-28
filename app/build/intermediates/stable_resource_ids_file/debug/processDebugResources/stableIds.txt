@@ -1,0 +1,3 @@
+com.example.muslimcompanion:style/AppTheme = 0x7f030000
+com.example.muslimcompanion:string/app_name = 0x7f020000
+com.example.muslimcompanion:color/ic_launcher_background = 0x7f010000

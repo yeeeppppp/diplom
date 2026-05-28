@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0E6F5C</color>
+    <string name="app_name">Мой намаз</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F6F7F2</item>
+        <item name="android:navigationBarColor">#F6F7F2</item>
+        <item name="android:colorAccent">#0E6F5C</item>
+    </style>
+</resources>

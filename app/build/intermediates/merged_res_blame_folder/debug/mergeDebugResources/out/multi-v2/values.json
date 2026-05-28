@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.muslimcompanion.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gulsl\\Documents\\Codex\\2026-05-29\\new-chat\\MuslimCompanion\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "401"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "544"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gulsl\\Documents\\Codex\\2026-05-29\\new-chat\\MuslimCompanion\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "56",
+                        "endOffsets": "68"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gulsl\\Documents\\Codex\\2026-05-29\\new-chat\\MuslimCompanion\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "46",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
